@@ -1,4 +1,1 @@
-github: [lepture]
-patreon: lepture
-tidelift: pypi/Authlib
-custom: https://authlib.org/plans
+github: [authlib, lepture]
